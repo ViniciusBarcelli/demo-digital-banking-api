@@ -27,7 +27,7 @@ public class Cliente {
     private String email;
 
     @NotBlank
-    private Date dataNascimento;
+    private Date nascimento;
 
     @NotBlank
     private String cpf;
